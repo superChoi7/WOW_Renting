@@ -2,7 +2,9 @@
 
 This is the final project for DB course.
 
-Please find details about the databse in the folder [db](https://github.com/Ethan-zc/WOW_Renting/tree/master/db), details about the frontend in [material-kit-react-main](https://github.com/Ethan-zc/WOW_Renting/tree/master/material-kit-react-main).
+Please find details about the database in the folder [db](https://github.com/Ethan-zc/WOW_Renting/tree/master/db), details about the frontend in [material-kit-react-main](https://github.com/Ethan-zc/WOW_Renting/tree/master/material-kit-react-main), and details about the backend in the current directory.
+
+Please find the final report [here](https://github.com/superChoi7/WOW_Renting/blob/master/Project_Part_II.pdf).
 
 # Architecture
 
